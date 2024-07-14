@@ -134,4 +134,12 @@ source Code :
             print("Invalid choice. Please enter a number between 1 and 4.")
 
 
-    
+![Spixmacaw's Stats](https://github-readme-stats.vercel.app/api?username=Spixmacaw&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+<p><img align="center" width="470" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=Spixmacaw&theme=tokyonight&hide_border=true" alt="Spixmacaw" /></p>
+
+![Spixmacaw's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Spixmacaw&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+<hr>
+
+![Alt](https://repobeats.axiom.co/api/embed/76e6ef55d852b53769aeeb80da65d582e1067fa0.svg "Repobeats analytics image")
