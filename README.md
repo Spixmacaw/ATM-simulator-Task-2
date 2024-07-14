@@ -1,4 +1,4 @@
-#ATM Simulator
+<h1>#ATM Simulator</h1>
 
 Welcome to the ATM Simulator repository! This project is a simple ATM simulator written in Python. It allows users to perform basic ATM operations like checking their balance, depositing money, withdrawing money, and exiting the program.
 
@@ -29,6 +29,8 @@ Installation
        sh
 
        python atm_simulator.py
+
+<img align="right" alt="Coding" width="300" height="400" margin-left:-60px src="https://github.com/user-attachments/assets/6237303c-e29d-4d40-9d02-fefa7a928a9e">
 
 Example Output : ->
 
